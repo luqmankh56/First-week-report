@@ -5,4 +5,4 @@ This repository contains an HTML table summarizing the weekly study progress, in
 HTML: Used to structure the table and organize the information.
 CSS: Used for styling and color.
 
-live:
+live: https://firstweekreport.netlify.app/
